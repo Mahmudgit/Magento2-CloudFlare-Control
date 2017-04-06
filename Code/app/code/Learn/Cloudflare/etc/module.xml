@@ -11,7 +11,7 @@
 	<module name="Learn_Cloudflare" setup_version="1.0.0" >
 		<!-- DEPENDENCY 
 		<sequence>
-            <module name="Magento_Directory"/>
+            <module name="Magento_Directory" />
         </sequence>
     	-->
     </module>
